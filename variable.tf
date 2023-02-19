@@ -15,7 +15,7 @@ variable "secret_key" {
 variable "storage" {
 dedescription = "create storage"  
 type = string
-default = "20"
+default = "100"
 }
 
 variable "engine_version" {
